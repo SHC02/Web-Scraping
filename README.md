@@ -4,7 +4,7 @@ Web Scraping with Python
 prerequisites 
   1. * Python
   ```sh
-  Python 3 <a href="https://www.python.org/downloads/">Python 3 download</a>
+  Python 3 [https://www.python.org/downloads/](https://www.python.org/downloads/)
   ```
   2. * BeautifulSoup4
   ```sh
