@@ -1,7 +1,8 @@
 # Web-Scraping
 Web Scraping with Python
 ************************
-prerequisites 
+Prerequisites:
+
   1. * [Python 3](https://www.python.org/downloads/)
   2. * BeautifulSoup4
   ```sh
