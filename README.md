@@ -1,5 +1,10 @@
 # Web-Scraping
+Starting date: 10/3/2022
+
 Web Scraping with Python
+
+Scraping targets always exist on webpage.Throughout the web scraping, user will acquire detailed information of the website, such as Javascript, images on HTML, CSS, videos etc.
+
 ************************
 Prerequisites:
 
@@ -12,3 +17,4 @@ Prerequisites:
   ```sh
   pip install lxml
   ```
+************************
